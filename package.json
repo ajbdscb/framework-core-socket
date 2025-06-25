@@ -1,0 +1,71 @@
+{
+  "_from": "framework-core-socket@0.1.9",
+  "_id": "framework-core-socket@0.1.9",
+  "_inBundle": false,
+  "_integrity": "sha512-ynKjfsuqR5ideewqQe2FnpIbqT7YonGeT7g210OeVyb1jgDA9krnfJlbpHQe/Y6o2nNK7uBnnM72pylQkhRxGw==",
+  "_location": "/framework-core-socket",
+  "_phantomChildren": {
+    "opencollective-postinstall": "2.0.3",
+    "tz-offset": "0.0.1"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "framework-core-socket@0.1.9",
+    "name": "framework-core-socket",
+    "escapedName": "framework-core-socket",
+    "rawSpec": "0.1.9",
+    "saveSpec": null,
+    "fetchSpec": "0.1.9"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/framework-core-socket/-/framework-core-socket-0.1.9.tgz",
+  "_shasum": "e78014357f7038e25bd9ca0817fd049ec0c8dc6e",
+  "_spec": "framework-core-socket@0.1.9",
+  "_where": "/Users/user/Documents/project/FairPlay-API",
+  "author": {
+    "name": "framework-core-socket"
+  },
+  "bugs": {
+    "url": "https://github.com/ajbdscb/framework-core-socket/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.1",
+    "cors": "^2.8.5",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "http": "^0.0.0",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "mongoose": "^5.11.13",
+    "node-cron": "^2.0.1",
+    "request": "^2.88.0",
+    "require-all": "^3.0.0",
+    "socket.io": "^2.2.0"
+  },
+  "deprecated": false,
+  "description": "Framework Core",
+  "homepage": "https://github.com/ajbdscb/framework-core-socket#readme",
+  "keywords": [
+    "ajbdscb",
+    "framework",
+    "express"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "framework-core-socket",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajbdscb/framework-core-socket.git"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.9"
+}
